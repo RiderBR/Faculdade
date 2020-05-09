@@ -1,0 +1,13 @@
+D:\C#\Aula 10\WebAula10\obj\Debug\netcoreapp3.1\WebAula10.csprojAssemblyReference.cache
+D:\C#\Aula 10\WebAula10\obj\Debug\netcoreapp3.1\WebAula10.csproj.CoreCompileInputs.cache
+D:\C#\Aula 10\WebAula10\obj\Debug\netcoreapp3.1\WebAula10.AssemblyInfoInputs.cache
+D:\C#\Aula 10\WebAula10\obj\Debug\netcoreapp3.1\WebAula10.AssemblyInfo.cs
+D:\C#\Aula 10\WebAula10\bin\Debug\netcoreapp3.1\WebAula10.exe
+D:\C#\Aula 10\WebAula10\bin\Debug\netcoreapp3.1\WebAula10.deps.json
+D:\C#\Aula 10\WebAula10\bin\Debug\netcoreapp3.1\WebAula10.runtimeconfig.json
+D:\C#\Aula 10\WebAula10\bin\Debug\netcoreapp3.1\WebAula10.runtimeconfig.dev.json
+D:\C#\Aula 10\WebAula10\bin\Debug\netcoreapp3.1\WebAula10.dll
+D:\C#\Aula 10\WebAula10\bin\Debug\netcoreapp3.1\WebAula10.pdb
+D:\C#\Aula 10\WebAula10\obj\Debug\netcoreapp3.1\WebAula10.dll
+D:\C#\Aula 10\WebAula10\obj\Debug\netcoreapp3.1\WebAula10.pdb
+D:\C#\Aula 10\WebAula10\obj\Debug\netcoreapp3.1\WebAula10.genruntimeconfig.cache

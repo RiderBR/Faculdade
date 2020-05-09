@@ -1,0 +1,13 @@
+D:\C#\Aula 11\Lista Numeros Primos\bin\Debug\netcoreapp3.1\Lista Numeros Primos.exe
+D:\C#\Aula 11\Lista Numeros Primos\bin\Debug\netcoreapp3.1\Lista Numeros Primos.deps.json
+D:\C#\Aula 11\Lista Numeros Primos\bin\Debug\netcoreapp3.1\Lista Numeros Primos.runtimeconfig.json
+D:\C#\Aula 11\Lista Numeros Primos\bin\Debug\netcoreapp3.1\Lista Numeros Primos.runtimeconfig.dev.json
+D:\C#\Aula 11\Lista Numeros Primos\bin\Debug\netcoreapp3.1\Lista Numeros Primos.dll
+D:\C#\Aula 11\Lista Numeros Primos\bin\Debug\netcoreapp3.1\Lista Numeros Primos.pdb
+D:\C#\Aula 11\Lista Numeros Primos\obj\Debug\netcoreapp3.1\Lista Numeros Primos.csprojAssemblyReference.cache
+D:\C#\Aula 11\Lista Numeros Primos\obj\Debug\netcoreapp3.1\Lista Numeros Primos.csproj.CoreCompileInputs.cache
+D:\C#\Aula 11\Lista Numeros Primos\obj\Debug\netcoreapp3.1\Lista Numeros Primos.AssemblyInfoInputs.cache
+D:\C#\Aula 11\Lista Numeros Primos\obj\Debug\netcoreapp3.1\Lista Numeros Primos.AssemblyInfo.cs
+D:\C#\Aula 11\Lista Numeros Primos\obj\Debug\netcoreapp3.1\Lista Numeros Primos.dll
+D:\C#\Aula 11\Lista Numeros Primos\obj\Debug\netcoreapp3.1\Lista Numeros Primos.pdb
+D:\C#\Aula 11\Lista Numeros Primos\obj\Debug\netcoreapp3.1\Lista Numeros Primos.genruntimeconfig.cache

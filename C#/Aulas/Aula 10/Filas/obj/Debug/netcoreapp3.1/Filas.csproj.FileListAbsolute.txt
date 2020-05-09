@@ -1,0 +1,13 @@
+D:\C#\Aula 10\Filas\bin\Debug\netcoreapp3.1\Filas.exe
+D:\C#\Aula 10\Filas\bin\Debug\netcoreapp3.1\Filas.deps.json
+D:\C#\Aula 10\Filas\bin\Debug\netcoreapp3.1\Filas.runtimeconfig.json
+D:\C#\Aula 10\Filas\bin\Debug\netcoreapp3.1\Filas.runtimeconfig.dev.json
+D:\C#\Aula 10\Filas\bin\Debug\netcoreapp3.1\Filas.dll
+D:\C#\Aula 10\Filas\bin\Debug\netcoreapp3.1\Filas.pdb
+D:\C#\Aula 10\Filas\obj\Debug\netcoreapp3.1\Filas.csprojAssemblyReference.cache
+D:\C#\Aula 10\Filas\obj\Debug\netcoreapp3.1\Filas.csproj.CoreCompileInputs.cache
+D:\C#\Aula 10\Filas\obj\Debug\netcoreapp3.1\Filas.AssemblyInfoInputs.cache
+D:\C#\Aula 10\Filas\obj\Debug\netcoreapp3.1\Filas.AssemblyInfo.cs
+D:\C#\Aula 10\Filas\obj\Debug\netcoreapp3.1\Filas.dll
+D:\C#\Aula 10\Filas\obj\Debug\netcoreapp3.1\Filas.pdb
+D:\C#\Aula 10\Filas\obj\Debug\netcoreapp3.1\Filas.genruntimeconfig.cache

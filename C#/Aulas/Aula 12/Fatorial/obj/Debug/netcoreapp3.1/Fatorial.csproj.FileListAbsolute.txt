@@ -1,0 +1,13 @@
+D:\C#\Aula 12\Fatorial\bin\Debug\netcoreapp3.1\Fatorial.exe
+D:\C#\Aula 12\Fatorial\bin\Debug\netcoreapp3.1\Fatorial.deps.json
+D:\C#\Aula 12\Fatorial\bin\Debug\netcoreapp3.1\Fatorial.runtimeconfig.json
+D:\C#\Aula 12\Fatorial\bin\Debug\netcoreapp3.1\Fatorial.runtimeconfig.dev.json
+D:\C#\Aula 12\Fatorial\bin\Debug\netcoreapp3.1\Fatorial.dll
+D:\C#\Aula 12\Fatorial\bin\Debug\netcoreapp3.1\Fatorial.pdb
+D:\C#\Aula 12\Fatorial\obj\Debug\netcoreapp3.1\Fatorial.csprojAssemblyReference.cache
+D:\C#\Aula 12\Fatorial\obj\Debug\netcoreapp3.1\Fatorial.csproj.CoreCompileInputs.cache
+D:\C#\Aula 12\Fatorial\obj\Debug\netcoreapp3.1\Fatorial.AssemblyInfoInputs.cache
+D:\C#\Aula 12\Fatorial\obj\Debug\netcoreapp3.1\Fatorial.AssemblyInfo.cs
+D:\C#\Aula 12\Fatorial\obj\Debug\netcoreapp3.1\Fatorial.dll
+D:\C#\Aula 12\Fatorial\obj\Debug\netcoreapp3.1\Fatorial.pdb
+D:\C#\Aula 12\Fatorial\obj\Debug\netcoreapp3.1\Fatorial.genruntimeconfig.cache

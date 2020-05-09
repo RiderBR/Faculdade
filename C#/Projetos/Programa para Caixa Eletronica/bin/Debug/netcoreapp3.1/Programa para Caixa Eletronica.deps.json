@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Programa para Caixa Eletronica/1.0.0": {
+        "runtime": {
+          "Programa para Caixa Eletronica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa para Caixa Eletronica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

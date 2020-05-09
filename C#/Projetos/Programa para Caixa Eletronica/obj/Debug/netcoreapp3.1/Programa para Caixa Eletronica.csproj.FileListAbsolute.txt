@@ -1,0 +1,13 @@
+D:\C#\Projetos\Programa para Caixa Eletronica\obj\Debug\netcoreapp3.1\Programa para Caixa Eletronica.csprojAssemblyReference.cache
+D:\C#\Projetos\Programa para Caixa Eletronica\obj\Debug\netcoreapp3.1\Programa para Caixa Eletronica.csproj.CoreCompileInputs.cache
+D:\C#\Projetos\Programa para Caixa Eletronica\obj\Debug\netcoreapp3.1\Programa para Caixa Eletronica.AssemblyInfoInputs.cache
+D:\C#\Projetos\Programa para Caixa Eletronica\obj\Debug\netcoreapp3.1\Programa para Caixa Eletronica.AssemblyInfo.cs
+D:\C#\Projetos\Programa para Caixa Eletronica\bin\Debug\netcoreapp3.1\Programa para Caixa Eletronica.exe
+D:\C#\Projetos\Programa para Caixa Eletronica\bin\Debug\netcoreapp3.1\Programa para Caixa Eletronica.deps.json
+D:\C#\Projetos\Programa para Caixa Eletronica\bin\Debug\netcoreapp3.1\Programa para Caixa Eletronica.runtimeconfig.json
+D:\C#\Projetos\Programa para Caixa Eletronica\bin\Debug\netcoreapp3.1\Programa para Caixa Eletronica.runtimeconfig.dev.json
+D:\C#\Projetos\Programa para Caixa Eletronica\bin\Debug\netcoreapp3.1\Programa para Caixa Eletronica.dll
+D:\C#\Projetos\Programa para Caixa Eletronica\bin\Debug\netcoreapp3.1\Programa para Caixa Eletronica.pdb
+D:\C#\Projetos\Programa para Caixa Eletronica\obj\Debug\netcoreapp3.1\Programa para Caixa Eletronica.dll
+D:\C#\Projetos\Programa para Caixa Eletronica\obj\Debug\netcoreapp3.1\Programa para Caixa Eletronica.pdb
+D:\C#\Projetos\Programa para Caixa Eletronica\obj\Debug\netcoreapp3.1\Programa para Caixa Eletronica.genruntimeconfig.cache
